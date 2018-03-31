@@ -116,7 +116,6 @@ And this is an html block.
     <td>Row 2 Cell 2</td>
   </tr>
 </table>
-
 Horizontal rules
 ----------------
 
